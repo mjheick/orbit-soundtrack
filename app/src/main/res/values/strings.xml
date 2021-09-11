@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Orbit Soundtrack</string>
+    <string name="button01">Nocturne in C sharp minor</string>
+    <string name="button02">Albumleaf in E major</string>
+    <string name="button03">Andantino \'Spring\'<br />B. 117</string>
+    <string name="button04">Cantabile in Bb<br />B. 84</string>
+    <string name="button05">Claire de Lune</string>
+    <string name="button06">Impromptu no. 3 in G flat major<br />D. 899</string>
+    <string name="button07">Scenes from Childhood<br />Op. 15 - I.</string>
+    <string name="button08">Etude Op 2 No 1<br />in C-sharp minor</string>
+</resources>
